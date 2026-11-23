@@ -1,0 +1,6 @@
+Debug/
+Release/
+.settings/
+SWV_export/
+.mxproject
+*.launch

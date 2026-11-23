@@ -1,0 +1,2 @@
+../Core/Src/potentiometer.c:12:6:Potentiometer_Init	1
+../Core/Src/potentiometer.c:18:7:Potentiometer_GetSetpoint	8
