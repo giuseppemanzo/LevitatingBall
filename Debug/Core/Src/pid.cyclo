@@ -1,3 +1,0 @@
-../Core/Src/pid.c:3:6:PID_Init	1
-../Core/Src/pid.c:14:6:PID_Reset	1
-../Core/Src/pid.c:19:7:PID_Update	5

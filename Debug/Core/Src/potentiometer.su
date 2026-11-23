@@ -1,2 +1,0 @@
-../Core/Src/potentiometer.c:12:6:Potentiometer_Init	16	static
-../Core/Src/potentiometer.c:18:7:Potentiometer_GetSetpoint	40	static

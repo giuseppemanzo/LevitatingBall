@@ -1,4 +1,0 @@
-../Core/Src/vl53l1x.c:18:10:VL53L1X_CheckID	2
-../Core/Src/vl53l1x.c:27:9:VL53L1X_Init	4
-../Core/Src/vl53l1x.c:56:9:VL53L1X_DataReady	2
-../Core/Src/vl53l1x.c:66:10:VL53L1X_GetDistanceMM	2
